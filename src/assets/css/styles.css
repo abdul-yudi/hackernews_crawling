@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+}
+ul li {
+  margin-bottom: 15px;
+}
+.post-head {
+  display: flex;
+  padding: 15px;
+}
+.post-head a {
+  margin-right: auto;
+}
+.post-head .star {
+  font-size: 40px;
+  color: orange;
+  line-height: 20px;
+  margin-left: auto;
+  cursor: pointer;
+}
